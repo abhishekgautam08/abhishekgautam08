@@ -27,7 +27,7 @@
 
 
 [email]: mailto://gautamabhishek0810@gmail.com
-[website]: https://github.com/abhishekgautam08
+[website]: https://abhishekgautam08.github.io
 [linkedin]: https://www.linkedin.com/in/abhishekgautam08
 [linkedinbadge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 

@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at my [website][website]
 
-- 💬 Ask me about **ReactJS, NodeJS
+- 💬 Ask me about **NextJS, ReactJS, NodeJS
+
+- 📙 Check out my <a href="https://drive.google.com/file/d/1pGsIlVLMdgNu5eUlke0PuMH3tIeOkJ0e/view?usp=sharing">resume</a>
 
 - 📫 Reach me @**[email][email]**
 

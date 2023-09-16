@@ -23,6 +23,7 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="26" height="26"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/>
 <img src="https://unpkg.com/simple-icons@v4/icons/redux.svg" style="filter: invert(39%) sepia(35%) saturate(2239%) hue-rotate(235deg) brightness(77%) contrast(89%);" alt="redux" width="26" height="26"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="26" height="26"/>
 
 </p>
 

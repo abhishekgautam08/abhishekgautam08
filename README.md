@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NextJS, ReactJS, NodeJS
 
-- 📙 Check out my <a href="https://drive.google.com/file/d/1pGsIlVLMdgNu5eUlke0PuMH3tIeOkJ0e/view?usp=sharing">resume</a>
+- 📙 Check out my <a href="https://drive.google.com/file/d/11CxY8qQe4o0um5j6pu6XB0UXlk9nprJj/view">resume</a>
 
 - 📫 Reach me @**[email][email]**
 
@@ -38,7 +38,7 @@
 
 
 [email]: mailto://gautamabhishek0810@gmail.com
-[website]: https://abhishekgautam08.github.io
+[website]: https://abhishekgautam.vercel.app
 [linkedin]: https://www.linkedin.com/in/abhishekgautam08
 [linkedinbadge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 

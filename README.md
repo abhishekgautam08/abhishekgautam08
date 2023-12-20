@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NextJS, ReactJS, NodeJS
 
-- 📙 Check out my <a href="https://drive.google.com/file/d/11CxY8qQe4o0um5j6pu6XB0UXlk9nprJj/view">resume</a>
+- 📙 Check out my <a href="https://drive.google.com/file/d/1xn_noULcYaSqSj4H9gQLcV0xhdYjWqs5/view?usp=sharing">resume</a>
 
 - 📫 Reach me @**[email][email]**
 
